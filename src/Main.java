@@ -7,4 +7,3 @@ public class Main {
         System.out.println("initial commit for parking a lot problem");
         }
     }
-}
